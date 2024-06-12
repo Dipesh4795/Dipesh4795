@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dipesh-kumar-gupta-658bb1176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipesh-kumar-gupta-658bb1176" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipesh-kumar-gupta-658bb1176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipesh-kumar-gupta-658bb1176" height="30" width="40" /></a>
 <a href="https://instagram.com/dipesh_kumargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipesh_kumargupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/dipesh31702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dipesh31702/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/dguptagupta31702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dguptagupta31702/" height="30" width="40" /></a>
